@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Kenneth Lee</title>
+    <title>Eric Li</title>
     <link rel="icon" type="image/png" href="img/favicon.png">
     <link rel="stylesheet" href="index.css">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
@@ -18,8 +18,8 @@
         <div class="about">
           <h2>About</h2>
           <p>
-            Hey there, my name is Kenneth! I am part of the UW class of 2023 and I'm interested in web development,
-            algorithms, and soccer.
+            Hey there, my name is Eric! I am part of the University of Toronto class of 2025 and I'm interested in web development,
+            algorithms, and basketball.
           </p>
         </div>
         <div class="contact">
